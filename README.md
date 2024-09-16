@@ -1,3 +1,3 @@
 ## Hi there, I'm Martí 👋
 
-DAM Student focussed on mobile development
+Currently studying 2nd age of DAM in ITB.
