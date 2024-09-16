@@ -1,3 +1,3 @@
 ## Hi there, I'm Martí 👋
 
-Currently studying 2nd age of DAM in ITB.
+Currently studying DAM in ITB.
