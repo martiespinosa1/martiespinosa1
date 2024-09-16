@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi there, I'm Martí 👋
 
 DAM Student
