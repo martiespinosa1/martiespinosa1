@@ -1,3 +1,3 @@
 ## Hi there, I'm Martí 👋
 
-DAM Student
+DAM Student focussed on mobile development
